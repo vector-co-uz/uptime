@@ -40,19 +40,19 @@
     "url": "https://vector.co.uz",
     "icon": "https://icons.duckduckgo.com/ip3/vector.co.uz.ico",
     "slug": "homepage-dashboard",
-    "status": "down",
-    "uptime": "9.44%",
-    "uptimeDay": "9.44%",
-    "uptimeWeek": "9.44%",
-    "uptimeMonth": "9.44%",
-    "uptimeYear": "9.44%",
-    "time": 1109,
-    "timeDay": 1109,
-    "timeWeek": 1109,
-    "timeMonth": 1109,
-    "timeYear": 1109,
+    "status": "up",
+    "uptime": "1.75%",
+    "uptimeDay": "1.75%",
+    "uptimeWeek": "1.75%",
+    "uptimeMonth": "1.75%",
+    "uptimeYear": "1.75%",
+    "time": 824,
+    "timeDay": 824,
+    "timeWeek": 824,
+    "timeMonth": 824,
+    "timeYear": 824,
     "dailyMinutesDown": {
-      "2026-01-14": 0
+      "2026-01-14": 4
     }
   }
 ]
