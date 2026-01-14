@@ -9,6 +9,12 @@ sites:
     url: https://frigate.vector.co.uz
   - name: Homepage Dashboard
     url: https://vector.co.uz
+    
+notifications:
+  - type: telegram
+    payload:
+      token: "$NOTIFICATION_TELEGRAM_BOT_TOKEN"
+      chatId: "$NOTIFICATION_TELEGRAM_CHAT_ID"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
