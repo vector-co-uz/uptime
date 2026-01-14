@@ -1,4 +1,4 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status]([https://demo.upptime.js.org](https://uptime.vector.co.uz/)): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Vector](https://demo.upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
