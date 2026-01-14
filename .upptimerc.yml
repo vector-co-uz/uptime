@@ -15,9 +15,6 @@ notifications:
       token: "$NOTIFICATION_TELEGRAM_BOT_TOKEN"
       chatId: "$NOTIFICATION_TELEGRAM_CHAT_ID"
       
-status-website:
-  theme: night
-
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
@@ -28,6 +25,7 @@ workflowSchedule:
   uptime: "*/5 * * * *"
   
 status-website:
+  theme: night
   cname: uptime.vector.co.uz
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
