@@ -7,7 +7,7 @@ sites:
   - name: Frigate
     url: https://frigate.vector.co.uz
   - name: Homepage Dashboard
-    url: https://vector.co.uz
+    url: https://home.vector.co.uz
     
 notifications:
   - type: telegram
