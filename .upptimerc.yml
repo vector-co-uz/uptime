@@ -8,6 +8,8 @@ sites:
     url: https://frigate.vector.co.uz
   - name: Homepage Dashboard
     url: https://dash.vector.co.uz
+  - name: Links
+    url: https://links.vector.co.uz
     
 notifications:
   - type: telegram
