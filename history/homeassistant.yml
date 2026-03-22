@@ -1,7 +1,7 @@
 url: https://ha.vector.co.uz
-status: up
-code: 200
-responseTime: 1212
-lastUpdated: 2026-03-22T15:59:24.121Z
+status: down
+code: 502
+responseTime: 1313
+lastUpdated: 2026-03-22T16:37:00.065Z
 startTime: 2026-01-14T06:04:53.545Z
 generator: Upptime <https://github.com/upptime/upptime>
