@@ -1,7 +1,7 @@
 url: https://frigate.vector.co.uz
-status: up
-code: 200
-responseTime: 1247
-lastUpdated: 2026-08-09T23:31:36.187Z
+status: down
+code: 502
+responseTime: 431
+lastUpdated: 2026-08-10T21:27:35.336Z
 startTime: 2026-01-14T06:48:41.210Z
 generator: Upptime <https://github.com/upptime/upptime>
