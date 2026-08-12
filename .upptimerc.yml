@@ -10,6 +10,9 @@ sites:
     url: https://dash.vector.co.uz
   - name: Links
     url: https://links.vector.co.uz
+  - name: Gotify
+    url: https://gtfy.vector.co.uz
+    
     
 notifications:
   - type: telegram
